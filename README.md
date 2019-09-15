@@ -1,3 +1,5 @@
+# This project is moved to https://github.com/SimplifyNet/Simplify.Web.Templates
+
 # Simplify.Web.Templates
 
 Visual studio project templates for Simplify.Web web framework
